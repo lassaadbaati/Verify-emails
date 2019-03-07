@@ -8,6 +8,7 @@ DEPENDENCIES
 
     On Ubuntu/Debian install: 
     $ sudo apt install libmail-checkuser-perl libparallel-forkmanager-perl
+    $ sudo apt-get install liblist-moreutils-perl
 
 OPTIONS
     --emails (required)
